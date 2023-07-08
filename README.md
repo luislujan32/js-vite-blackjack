@@ -1,16 +1,11 @@
-# Run proyect
+# BlackJack JS with Vite
 
-1 - Clone repository
+## Run proyect
 
-2 -
+1. Clone repository
+2. Execute `npm install`
+3. Run the server `npm run dev`
 
-```
-npm install
-npm run dev
-```
+## Production deploy
 
-# Production deploy
-
-```
-npm run build
-```
+1. Build distribution package `npm run build`
